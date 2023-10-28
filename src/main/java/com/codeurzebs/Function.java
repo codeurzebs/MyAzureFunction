@@ -16,8 +16,8 @@ public class Function {
                 context.getLogger().info("Java HTTP trigger processed a request.");
                 String requestBody = request.getBody().orElse("0");
                 int number1 = Integer.parseInt(requestBody);
-                int number2 = 10;
+                int number2 = 80;
                 int result = number1 + number2;
-                return request.createResponseBuilder(HttpStatus.OK).body(Integer.toString(result)).build();
+                return request.createResponseBuilder(HttpStatus.OK).body("Je me presente @codeurZebs \n Operation mathematique: Addition\n" +Integer.toString(result)).build();
             }
 }
