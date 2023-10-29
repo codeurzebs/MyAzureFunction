@@ -1,3 +1,4 @@
+# >> read le [WIKI before start](https://github.com/codeurzebs/MyAzureFunction/wiki)
 # Azure Functions Java Example
 
 ## Description Exercise Apprendre java
