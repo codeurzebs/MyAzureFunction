@@ -1,7 +1,7 @@
 # Azure Functions Java Example
 
 ## Description Exercise Apprendre java
-
+![AZUREFUNCTION](https://github.com/codeurzebs/MyAzureFunction/blob/main/.github/workflows/private/codeur%20zebs%20java.PNG?raw=true)
 This is an example Azure Functions project written in Java. The function performs a simple addition task based on user input number1 et number2 .
 
 ## Installation
@@ -24,4 +24,5 @@ mvn clean package
 ```
 
 # Deployment
-
+![DEPLOYEMENT](https://github.com/codeurzebs/MyAzureFunction/blob/main/.github/workflows/private/actionBuild1.PNG?raw=true)
+![](https://github.com/codeurzebs/MyAzureFunction/blob/main/.github/workflows/private/LogHttp.PNG?raw=true)
